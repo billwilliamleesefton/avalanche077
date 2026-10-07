@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://google.com/");
+header("Location: https://banglemail.com/");
 exit();
 ?>
